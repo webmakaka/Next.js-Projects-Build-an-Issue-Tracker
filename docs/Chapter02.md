@@ -48,6 +48,18 @@ $ npm install react-icons
 
 <br/>
 
+### 04. Styling the Active Link
+
+```
+$ npm install classnames
+```
+
+<br/>
+
+![Application](/img/pic-ch02-img02.png?raw=true)
+
+<br/>
+
 ---
 
 <br/>
