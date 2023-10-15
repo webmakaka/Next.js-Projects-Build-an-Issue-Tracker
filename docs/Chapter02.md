@@ -6,7 +6,7 @@
 
 <br/>
 
-### 02. Setting Up the Project
+### 02. Creating the Project
 
 <br/>
 
@@ -32,7 +32,19 @@ $ npm run dev
 http://localhost:3000
 ```
 
+<br/>
 
+### 03. Building the navbar
+
+https://react-icons.github.io/react-icons/
+
+```
+$ npm install react-icons
+```
+
+<br/>
+
+![Application](/img/pic-ch02-img01.png?raw=true)
 
 <br/>
 
