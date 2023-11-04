@@ -79,10 +79,21 @@ $ curl \
 
 https://www.radix-ui.com/
 
-
 ```
 $ npm install @radix-ui/themes
 ```
+
+<br/>
+
+### 06. Building the New Issue Page
+
+<br/>
+
+https://www.radix-ui.com/themes/docs/components/text-field
+
+<br/>
+
+![Application](/img/pic-ch03-img01.png?raw=true)
 
 <br/>
 
