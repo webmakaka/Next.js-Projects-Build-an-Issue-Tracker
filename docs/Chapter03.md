@@ -31,6 +31,50 @@ $ npx prisma migrate dev
 
 <br/>
 
+### 04. Building an API
+
+```
+$ npm install zod
+```
+
+<br/>
+
+**Best practice for instantiating PrismaClient with Next.js**
+
+https://www.prisma.io/docs/guides/other/troubleshooting-orm/help-articles/nextjs-prisma-client-dev-practices
+
+<br/>
+
+```
+// POST
+// OK!
+$ curl \
+    --data '{
+      "title":"First issue",
+      "description":"Description of the first issue"}' \
+    --header "Content-Type: application/json" \
+    --request POST \
+    --url http://localhost:3000/api/issues \
+    | jq
+```
+
+<br/>
+
+**response:**
+
+```json
+{
+  "id": 1,
+  "title": "First issue",
+  "description": "Description of the first issue",
+  "status": "OPEN",
+  "createdAt": "2023-11-04T15:38:27.199Z",
+  "updatedAt": "2023-11-04T15:38:27.199Z"
+}
+```
+
+<br/>
+
 ---
 
 <br/>
