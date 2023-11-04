@@ -75,6 +75,17 @@ $ curl \
 
 <br/>
 
+### 05. Setting Up Radix UI
+
+https://www.radix-ui.com/
+
+
+```
+$ npm install @radix-ui/themes
+```
+
+<br/>
+
 ---
 
 <br/>
