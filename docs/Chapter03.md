@@ -97,6 +97,16 @@ https://www.radix-ui.com/themes/docs/components/text-field
 
 <br/>
 
+### 07. Customizing Radix UI Theme
+
+https://www.radix-ui.com/themes/docs/theme/typography
+
+<br/>
+
+![Application](/img/pic-ch03-img02.png?raw=true)
+
+<br/>
+
 ---
 
 <br/>
