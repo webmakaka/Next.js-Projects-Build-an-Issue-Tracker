@@ -142,6 +142,18 @@ $ npm install axios
 
 <br/>
 
+### 11. Implementing Client-side Validation
+
+```
+$ npm install @hookform/resolvers
+```
+
+<br/>
+
+![Application](/img/pic-ch03-img05.png?raw=true)
+
+<br/>
+
 ---
 
 <br/>
