@@ -154,6 +154,10 @@ $ npm install @hookform/resolvers
 
 <br/>
 
+### 12. Extracting the ErrorMessage Component
+
+<br/>
+
 ---
 
 <br/>
