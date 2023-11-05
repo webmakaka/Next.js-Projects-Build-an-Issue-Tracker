@@ -2,7 +2,7 @@
 
 <br/>
 
-## 03. Creating Issues
+## [03. Creating Issues](https://github.com/webmakaka/Next.js-Projects-Build-an-Issue-Tracker/pull/1)
 
 <br/>
 
@@ -107,7 +107,7 @@ https://www.radix-ui.com/themes/docs/theme/typography
 
 <br/>
 
-### 07. Adding a Markdown Editor
+### 08. Adding a Markdown Editor
 
 https://www.npmjs.com/package/react-simplemde-editor
 
@@ -120,6 +120,17 @@ $ npm install --save react-simplemde-editor easymde
 <br/>
 
 ![Application](/img/pic-ch03-img03.png?raw=true)
+
+<br/>
+
+### 09. Handling Form Submission
+
+https://react-hook-form.com/
+
+```
+$ npm install react-hook-form
+$ npm install axios
+```
 
 <br/>
 
