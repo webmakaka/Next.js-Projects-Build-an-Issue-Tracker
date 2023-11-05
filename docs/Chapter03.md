@@ -134,6 +134,14 @@ $ npm install axios
 
 <br/>
 
+### 10. Handling Errors
+
+<br/>
+
+![Application](/img/pic-ch03-img04.png?raw=true)
+
+<br/>
+
 ---
 
 <br/>
