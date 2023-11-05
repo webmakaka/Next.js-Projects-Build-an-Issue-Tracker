@@ -6,7 +6,7 @@
 
 <br/>
 
-### 02. Creating the Project
+### 03. Creating the Project
 
 <br/>
 
@@ -34,7 +34,7 @@ http://localhost:3000
 
 <br/>
 
-### 03. Building the navbar
+### 04. Building the navbar
 
 https://react-icons.github.io/react-icons/
 
@@ -48,7 +48,7 @@ $ npm install react-icons
 
 <br/>
 
-### 04. Styling the Active Link
+### 05. Styling the Active Link
 
 ```
 $ npm install classnames

@@ -22,6 +22,8 @@ https://github.com/mosh-hamedani/issue-tracker/
 
 ### [02. Setting Up the Project](./docs/Chapter02.md)
 
+### [03. Creating Issues](./docs/Chapter03.md)
+
 <br/>
 
 ---
