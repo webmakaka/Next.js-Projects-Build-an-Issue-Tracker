@@ -107,6 +107,22 @@ https://www.radix-ui.com/themes/docs/theme/typography
 
 <br/>
 
+### 07. Adding a Markdown Editor
+
+https://www.npmjs.com/package/react-simplemde-editor
+
+<br/>
+
+```
+$ npm install --save react-simplemde-editor easymde
+```
+
+<br/>
+
+![Application](/img/pic-ch03-img03.png?raw=true)
+
+<br/>
+
 ---
 
 <br/>
