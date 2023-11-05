@@ -158,6 +158,12 @@ $ npm install @hookform/resolvers
 
 <br/>
 
+### 13. Adding a Spinner
+
+https://tw-elements.com/docs/standard/components/spinners/
+
+<br/>
+
 ---
 
 <br/>
