@@ -31,6 +31,10 @@ $ npm install react-loading-skeleton
 
 <br/>
 
+### 04. Showing Issue Details
+
+<br/>
+
 ---
 
 <br/>
