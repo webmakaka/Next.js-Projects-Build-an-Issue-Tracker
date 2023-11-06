@@ -22,6 +22,15 @@
 
 <br/>
 
+### 03. Adding Loading Skeletons
+
+```
+$ npm install delay
+$ npm install react-loading-skeleton
+```
+
+<br/>
+
 ---
 
 <br/>
