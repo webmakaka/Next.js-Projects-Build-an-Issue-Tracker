@@ -35,6 +35,10 @@ $ npm install react-loading-skeleton
 
 <br/>
 
+### 05. Styling the Issue Detail Page
+
+<br/>
+
 ---
 
 <br/>
