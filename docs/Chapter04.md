@@ -54,6 +54,10 @@ $ npm install -D @tailwindcss/typography
 
 <br/>
 
+### 07. Building a Styled Link Component
+
+<br/>
+
 ---
 
 <br/>
