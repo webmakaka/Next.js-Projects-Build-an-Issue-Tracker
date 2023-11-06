@@ -39,6 +39,21 @@ $ npm install react-loading-skeleton
 
 <br/>
 
+### 06. Adding Markdown Preview
+
+https://tailwindcss.com/docs/typography-plugin
+
+```
+$ npm install react-markdown
+$ npm install -D @tailwindcss/typography
+```
+
+<br/>
+
+![Application](/img/pic-ch04-img03.png?raw=true)
+
+<br/>
+
 ---
 
 <br/>
