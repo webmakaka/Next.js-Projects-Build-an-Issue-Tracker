@@ -62,6 +62,10 @@ $ npm install -D @tailwindcss/typography
 
 <br/>
 
+### 09. Disabling Server-side Rendering
+
+<br/>
+
 ---
 
 <br/>
