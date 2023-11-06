@@ -66,6 +66,10 @@ $ npm install -D @tailwindcss/typography
 
 <br/>
 
+### 10. Refactoring. Organizing Imports
+
+<br/>
+
 ---
 
 <br/>
