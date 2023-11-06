@@ -58,6 +58,10 @@ $ npm install -D @tailwindcss/typography
 
 <br/>
 
+### 08. Additional Loading Skeletons
+
+<br/>
+
 ---
 
 <br/>
