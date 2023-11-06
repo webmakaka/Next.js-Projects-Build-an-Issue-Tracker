@@ -14,6 +14,14 @@
 
 <br/>
 
+### 02. Building the Issue Status Badge
+
+<br/>
+
+![Application](/img/pic-ch04-img02.png?raw=true)
+
+<br/>
+
 ---
 
 <br/>
