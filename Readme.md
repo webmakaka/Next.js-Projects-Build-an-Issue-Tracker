@@ -26,6 +26,8 @@ https://github.com/mosh-hamedani/issue-tracker/
 
 ### [04. Creating Issues](./docs/Chapter04.md)
 
+### [05. Updating Issues](./docs/Chapter05.md)
+
 <br/>
 
 ---
