@@ -68,6 +68,10 @@ $ curl \
 
 <br/>
 
+### 05. Updating Issues
+
+<br/>
+
 ---
 
 <br/>
