@@ -34,6 +34,40 @@ $ npm i @radix-ui/react-icons
 
 <br/>
 
+### 04. Building an API
+
+<br/>
+
+```
+// PATCH
+// OK!
+$ curl \
+    --data '{
+      "title":"Bug 1+",
+      "description":"Description of Bug 1+"}' \
+    --header "Content-Type: application/json" \
+    --request PATCH \
+    --url http://localhost:3000/api/issues/2 \
+    | jq
+```
+
+<br/>
+
+**response**
+
+```json
+{
+  "id": 2,
+  "title": "Bug 1+",
+  "description": "Description of Bug 1+",
+  "status": "OPEN",
+  "createdAt": "2023-11-05T18:46:53.341Z",
+  "updatedAt": "2023-11-08T01:53:04.072Z"
+}
+```
+
+<br/>
+
 ---
 
 <br/>
