@@ -26,6 +26,14 @@ $ npm i @radix-ui/react-icons
 
 <br/>
 
+### 03. Building the Edit Issue Page
+
+<br/>
+
+![Application](/img/pic-ch05-img02.png?raw=true)
+
+<br/>
+
 ---
 
 <br/>
