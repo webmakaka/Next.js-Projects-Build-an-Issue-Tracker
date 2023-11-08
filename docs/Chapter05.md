@@ -72,6 +72,14 @@ $ curl \
 
 <br/>
 
+### 06. Understanding Caching
+
+<br/>
+
+### 07. Improving the Loading Experience
+
+<br/>
+
 ---
 
 <br/>
