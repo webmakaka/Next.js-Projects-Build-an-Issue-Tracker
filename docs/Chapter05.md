@@ -2,7 +2,7 @@
 
 <br/>
 
-## [05. Updating Issues](https://github.com/webmakaka/Next.js-Projects-Build-an-Issue-Tracker/pull/3)
+## [05. Updating Issues](https://github.com/webmakaka/Next.js-Projects-Build-an-Issue-Tracker/pull/4)
 
 <br/>
 
@@ -19,6 +19,10 @@ $ npm i @radix-ui/react-icons
 <br/>
 
 ![Application](/img/pic-ch05-img01.png?raw=true)
+
+<br/>
+
+### 02. Applying the Single Responsibility Principle
 
 <br/>
 
