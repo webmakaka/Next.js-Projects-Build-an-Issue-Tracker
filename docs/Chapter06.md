@@ -38,6 +38,10 @@ $ npm install @radix-ui/react-alert-dialog
 
 <br/>
 
+### 06. Improving the User Experience
+
+<br/>
+
 ---
 
 <br/>
