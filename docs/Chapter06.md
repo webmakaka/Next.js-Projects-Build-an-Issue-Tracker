@@ -14,6 +14,18 @@
 
 <br/>
 
+### 02. Adding a Confirmation Dialog Box
+
+```
+$ npm install @radix-ui/react-alert-dialog
+```
+
+<br/>
+
+![Application](/img/pic-ch06-img02.png?raw=true)
+
+<br/>
+
 ---
 
 <br/>
