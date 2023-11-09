@@ -1,4 +1,5 @@
 import { issueSchema } from '@/app/validationSchemas';
+import delay from 'delay';
 import { NextRequest, NextResponse } from 'next/server';
 import prisma from '../../../../../prisma/client';
 
@@ -30,4 +31,25 @@ export async function PATCH(
   });
 
   return NextResponse.json(updatedIssue);
+}
+
+export async function DELETE(
+  request: NextRequest,
+  { params }: { params: { id: string } }
+) {
+  await delay(2000);
+
+  const issue = await prisma.issue.findUnique({
+    where: { id: parseInt(params.id) },
+  });
+
+  if (!issue) {
+    return NextResponse.json({ error: 'Invalid issue' }, { status: 404 });
+  }
+
+  await prisma.issue.delete({
+    where: { id: issue.id },
+  });
+
+  return NextResponse.json({});
 }
