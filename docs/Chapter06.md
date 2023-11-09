@@ -34,6 +34,10 @@ $ npm install @radix-ui/react-alert-dialog
 
 <br/>
 
+### 05. Handling Errors
+
+<br/>
+
 ---
 
 <br/>
