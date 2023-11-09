@@ -30,6 +30,10 @@ $ npm install @radix-ui/react-alert-dialog
 
 <br/>
 
+### 04. Deleting an Issue
+
+<br/>
+
 ---
 
 <br/>
