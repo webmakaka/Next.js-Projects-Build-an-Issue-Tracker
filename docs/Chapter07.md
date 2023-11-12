@@ -143,6 +143,10 @@ http://localhost:3000/api/auth/signout
 
 <br/>
 
+### 09. Adding a Loading Skeleton
+
+<br/>
+
 ---
 
 <br/>
