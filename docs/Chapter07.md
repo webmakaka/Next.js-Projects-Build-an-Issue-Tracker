@@ -139,6 +139,10 @@ http://localhost:3000/api/auth/signout
 
 <br/>
 
+### 08. Refactoring the NavBar
+
+<br/>
+
 ---
 
 <br/>
