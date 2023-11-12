@@ -28,6 +28,10 @@ https://github.com/mosh-hamedani/issue-tracker/
 
 ### [05. Updating Issues](./docs/Chapter05.md)
 
+### [06. Deleting Issues](./docs/Chapter06.md)
+
+### [07. Authentication](./docs/Chapter07.md)
+
 <br/>
 
 ---

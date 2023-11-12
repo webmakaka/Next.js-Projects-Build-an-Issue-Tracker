@@ -2,7 +2,7 @@
 
 <br/>
 
-## [06. Deleting Issues](https://github.com/webmakaka/Next.js-Projects-Build-an-Issue-Tracker/pull/5)
+## [06. Deleting Issues](https://github.com/webmakaka/Next.js-Projects-Build-an-Issue-Tracker/pull/6)
 
 <br/>
 
@@ -39,6 +39,10 @@ $ npm install @radix-ui/react-alert-dialog
 <br/>
 
 ### 06. Improving the User Experience
+
+<br/>
+
+### 07. Removing Duplicate Skeletons
 
 <br/>
 
