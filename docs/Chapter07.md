@@ -135,6 +135,10 @@ http://localhost:3000/api/auth/signout
 
 <br/>
 
+### 07. Troubleshooting. Avatar Not Loading
+
+<br/>
+
 ---
 
 <br/>
