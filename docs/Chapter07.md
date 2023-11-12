@@ -86,6 +86,43 @@ CREATE
 
 <br/>
 
+### 03. Adding the Prisma Adapter
+
+<br/>
+
+https://authjs.dev/reference/adapter/prisma
+
+<br/>
+
+```
+$ npm install @next-auth/prisma-adapter
+```
+
+<br/>
+
+```
+$ npx prisma migrate dev
+✔ Enter a name for the new migration: … [add user models]
+```
+
+<br/>
+
+// [OK!]
+http://localhost:3000/api/auth/signin
+
+// [OK!]
+http://localhost:3000/api/auth/signout
+
+<br/>
+
+### 04. Adding the Login and Logout Links
+
+<br/>
+
+![Application](/img/pic-ch07-img01.png?raw=true)
+
+<br/>
+
 ---
 
 <br/>
