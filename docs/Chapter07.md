@@ -123,6 +123,14 @@ http://localhost:3000/api/auth/signout
 
 <br/>
 
+### 05. Change the Layout of the NavBar
+
+<br/>
+
+![Application](/img/pic-ch07-img02.png?raw=true)
+
+<br/>
+
 ---
 
 <br/>
