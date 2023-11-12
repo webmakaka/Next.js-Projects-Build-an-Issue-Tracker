@@ -147,6 +147,12 @@ http://localhost:3000/api/auth/signout
 
 <br/>
 
+### 10. Securing the Application
+
+middleware.ts - does not works
+
+<br/>
+
 ---
 
 <br/>
