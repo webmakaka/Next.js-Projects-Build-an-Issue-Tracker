@@ -131,6 +131,10 @@ http://localhost:3000/api/auth/signout
 
 <br/>
 
+### 06. Adding a Drop-down Menu
+
+<br/>
+
 ---
 
 <br/>
