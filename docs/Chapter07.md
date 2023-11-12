@@ -25,6 +25,67 @@ $ openssl rand -base64 32
 
 <br/>
 
+### 02. Configuring Google Provider
+
+https://next-auth.js.org/providers/google
+
+https://console.cloud.google.com/apis/credentials?project=apt-signifier-330519
+
+```
+New Project -> "My Next App"
+
+CONFIGURE CONSENT SCREEN -> External -> Create
+
+App Name: My Next App
+
+CREATE
+```
+
+<br/>
+
+```
+ADD OR REMOVE SCOPES
+
++ userinfo.email
++ userinfo.profile
+
+SAVE AND CONTINUE
+```
+
+<br/>
+
+```
+Test users
+
+ADD USER
+
+SAVE AND CONTINUE
+
+BACK TO DASHBOARD
+```
+
+<br/>
+
+```
+Credentials -> Create Credentials -> OAuth client ID
+```
+
+<br/>
+
+```
+Application type: Web Application
+
+Name: My Next App
+
+Authorized JavaScript origins: http://localhost:3000
+
+Authorized redirect URIs: http://localhost:3000/api/auth/callback/google
+
+CREATE
+```
+
+<br/>
+
 ---
 
 <br/>
