@@ -1,4 +1,5 @@
 import authOptions from '@/app/auth/authOptions';
+import AssigneeSelect from '@/app/issues/[id]/AssigneeSelect';
 import DeleteIssueButton from '@/app/issues/[id]/DeleteIssueButton';
 import EditIssueButton from '@/app/issues/[id]/EditIssueButton';
 import IssueDetails from '@/app/issues/[id]/IssueDetails';
@@ -35,6 +36,7 @@ const IssueDetailPage = async ({ params }: Props) => {
       {session && (
         <Box>
           <Flex direction="column" gap="4">
+            <AssigneeSelect />
             <EditIssueButton issueId={issue.id} />
             <DeleteIssueButton issueId={issue.id} />
           </Flex>
