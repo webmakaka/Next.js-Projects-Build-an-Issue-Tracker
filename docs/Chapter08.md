@@ -10,6 +10,12 @@
 
 <br/>
 
+### 02. Populating the Assignee Select Component
+
+http://localhost:3000/api/users
+
+<br/>
+
 ---
 
 <br/>
