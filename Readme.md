@@ -32,6 +32,8 @@ https://github.com/mosh-hamedani/issue-tracker/
 
 ### [07. Authentication](./docs/Chapter07.md)
 
+### [08. Assigning Issues to Users](./docs/Chapter08.md)
+
 <br/>
 
 ---
