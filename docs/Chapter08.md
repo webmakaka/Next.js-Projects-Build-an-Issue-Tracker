@@ -32,6 +32,15 @@ $ npm install @tanstack/react-query
 
 <br/>
 
+### 05. Add Assigned Issues to Prisma Schema
+
+```
+$ npx prisma migrate dev
+✔ Enter a name for the new migration: … add assigned issues
+```
+
+<br/>
+
 ---
 
 <br/>
