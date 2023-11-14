@@ -41,6 +41,56 @@ $ npx prisma migrate dev
 
 <br/>
 
+### 06. Implementing the API
+
+<br/>
+
+```
+// PATCH
+// OK!
+$ curl \
+    --data '{
+      "title":"First issue patched",
+      "description":"Description of the first issue patched"}' \
+    --header "Content-Type: application/json" \
+    --request PATCH \
+    --url http://localhost:3000/api/issues/1 \
+    | jq
+```
+
+<br/>
+
+**response (on comment session check):**
+
+<br/>
+
+```json
+{
+  "id": 1,
+  "title": "First issue patched",
+  "description": "Description of the first issue patched",
+  "status": "OPEN",
+  "createdAt": "2023-11-04T15:38:27.199Z",
+  "updatedAt": "2023-11-14T19:49:58.513Z"
+}
+```
+
+<br/>
+
+```
+// PATCH
+// FAIL!
+$ curl \
+    --data '{
+      "assignedToUserId": "abcd"}' \
+    --header "Content-Type: application/json" \
+    --request PATCH \
+    --url http://localhost:3000/api/issues/1 \
+    | jq
+```
+
+<br/>
+
 ---
 
 <br/>
