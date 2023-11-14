@@ -28,6 +28,10 @@ $ npm install @tanstack/react-query
 
 <br/>
 
+### 04. Fetching Data with React Query
+
+<br/>
+
 ---
 
 <br/>
