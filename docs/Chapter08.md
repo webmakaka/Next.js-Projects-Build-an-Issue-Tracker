@@ -2,7 +2,7 @@
 
 <br/>
 
-## [08. Assigning Issues to Users](https://github.com/webmakaka/Next.js-Projects-Build-an-Issue-Tracker/pull/8)
+## [08. Assigning Issues to Users](https://github.com/webmakaka/Next.js-Projects-Build-an-Issue-Tracker/pull/9)
 
 <br/>
 
@@ -13,6 +13,18 @@
 ### 02. Populating the Assignee Select Component
 
 http://localhost:3000/api/users
+
+<br/>
+
+### 03. Setting Up React Query
+
+https://tanstack.com/query/latest
+
+<br/>
+
+```
+$ npm install @tanstack/react-query
+```
 
 <br/>
 
