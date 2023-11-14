@@ -91,6 +91,10 @@ $ curl \
 
 <br/>
 
+### 07. Assigning an Issue to a User
+
+<br/>
+
 ---
 
 <br/>
