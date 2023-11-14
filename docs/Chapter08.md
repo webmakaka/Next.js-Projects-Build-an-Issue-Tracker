@@ -95,6 +95,14 @@ $ curl \
 
 <br/>
 
+### 08. Showing Toast Notifications
+
+```
+$ npm install react-hot-toast
+```
+
+<br/>
+
 ---
 
 <br/>
