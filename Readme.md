@@ -34,6 +34,8 @@ https://github.com/mosh-hamedani/issue-tracker/
 
 ### [08. Assigning Issues to Users](./docs/Chapter08.md)
 
+### [09. Filtering, Sorting, and Pagination](./docs/Chapter09.md)
+
 <br/>
 
 ---
