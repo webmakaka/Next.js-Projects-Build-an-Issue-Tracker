@@ -2,11 +2,15 @@
 
 <br/>
 
-## [09. Filtering, Sorting, and Pagination](https://github.com/webmakaka/Next.js-Projects-Build-an-Issue-Tracker/pull/11)
+## [09. Filtering, Sorting, and Pagination](https://github.com/webmakaka/Next.js-Projects-Build-an-Issue-Tracker/pull/10)
 
 <br/>
 
 ### 01. Building the Filter Component
+
+<br/>
+
+### 02. Filtering Issues
 
 <br/>
 
