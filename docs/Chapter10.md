@@ -22,6 +22,22 @@
 
 <br/>
 
+### 03. Building the BarChart Component
+
+https://recharts.org/en-US/
+
+<br/>
+
+```
+$ npm install recharts
+```
+
+<br/>
+
+![Application](/img/pic-ch10-img03.png?raw=true)
+
+<br/>
+
 ---
 
 <br/>
