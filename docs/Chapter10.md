@@ -38,6 +38,14 @@ $ npm install recharts
 
 <br/>
 
+### 04. Laying Out the Dashboard
+
+<br/>
+
+![Application](/img/pic-ch10-img04.png?raw=true)
+
+<br/>
+
 ---
 
 <br/>
