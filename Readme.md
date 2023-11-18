@@ -36,6 +36,8 @@ https://github.com/mosh-hamedani/issue-tracker/
 
 ### [09. Filtering, Sorting, and Pagination](./docs/Chapter09.md)
 
+### [10. Dashboard](./docs/Chapter10.md)
+
 <br/>
 
 ---
