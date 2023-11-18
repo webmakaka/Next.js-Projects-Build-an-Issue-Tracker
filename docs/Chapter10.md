@@ -10,7 +10,15 @@
 
 <br/>
 
-![Application](/img/pic-ch09-img10.png?raw=true)
+![Application](/img/pic-ch10-img01.png?raw=true)
+
+<br/>
+
+### 02. Building the IssueSummary Component
+
+<br/>
+
+![Application](/img/pic-ch10-img02.png?raw=true)
 
 <br/>
 
