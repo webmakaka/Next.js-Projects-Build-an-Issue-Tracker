@@ -80,6 +80,14 @@ VALUES
 
 <br/>
 
+### 11. Refactoring. Extracting IssueTable Component
+
+<br/>
+
+![Application](/img/pic-ch09-img01.png?raw=true)
+
+<br/>
+
 ---
 
 <br/>
