@@ -14,6 +14,33 @@
 
 <br/>
 
+### 03. Removing.env File
+
+<br/>
+
+### 04. Setting Up Error Tracking
+
+sentry.io
+
+<br/>
+
+```
+$ npx @sentry/wizard@latest -i nextjs
+```
+
+<br/>
+
+```
+***
+* Sentry SaaS (sentry.io)
+```
+
+<br/>
+
+http://localhost:3000/sentry-example-page
+
+<br/>
+
 ---
 
 <br/>
