@@ -41,6 +41,31 @@ http://localhost:3000/sentry-example-page
 
 <br/>
 
+### 05. Setting Up the Production Database (Blocked in Russia) (Asking for a CreditCard)
+
+https://planetscale.com/
+
+<br/>
+
+### 06. Deploying to Vercel
+
+```
+Build Command:
+prisma generate && prisma migrate deploy && next build
+```
+
+<br/>
+
+```
+Google console --> APIs & Services --> Credentials --> Issue Tracker --> Edit
+
+--> Authorized JavaScript origins --> Add URI
+
+--> Authorized redirect URIs --> Add URI
+```
+
+<br/>
+
 ---
 
 <br/>
