@@ -38,6 +38,8 @@ https://github.com/mosh-hamedani/issue-tracker/
 
 ### [10. Dashboard](./docs/Chapter10.md)
 
+### [11. Going to Production](./docs/Chapter11.md)
+
 <br/>
 
 ---
